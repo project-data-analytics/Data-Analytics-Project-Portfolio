@@ -20,7 +20,7 @@ SQL Labs:
 
 
 #### Technologies
-Python, SQL, ETL, Data Analysis.
+Python, SQL, ETL, Tableau, Data Analysis and Visualization.
 
 
 #### Credits
