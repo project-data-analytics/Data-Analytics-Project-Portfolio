@@ -19,10 +19,6 @@ SQL Labs:
 [Lab - Joining Tables](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Joining%20Tables.html) |
 
 
-#### Screenshots of Visualizations/Results
-Examples of the process or outputs. In analytics, these can be images of visualizations.
-
-
 #### Technologies
 Python, SQL, ETL, Data Analysis.
 
