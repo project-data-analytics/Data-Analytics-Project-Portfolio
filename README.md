@@ -1,32 +1,34 @@
-# Data-Analytics-Project-Portfolio
-The name of the project and a brief description of the main goal and purpose of the project.
+### _Data-Analytics-Project-Portfolio_
+Demo project for demostration core skills in Data Engineering and Analysis.
 
-# Demo Link
 
-# Business Understanding
-explain a little about what you wanted to accomplish, why you selected this analysis project, and any challenges that you faced while working through the project.
+#### Links of the projects
 
-# Data Understanding
-Explain your data sources and why you chose the particular data sets that you did. You can also discuss additional enhancements or analysis that you want to perform in the future.
+[Project: Cleaning Bank Marketing Campaign Data](https://www.datacamp.com/datalab/w/e15e67c4-a56e-4036-8090-1c7b658a2bef/edit)
 
-# Screenshots of Visualizations/Results
+[Project: Performing a Code Review](https://www.datacamp.com/datalab/w/48f851a7-0bf5-4696-8dc5-42d499437aef/edit)
+
+[Project: Building a Retail Data Pipeline](https://www.datacamp.com/datalab/w/f6df243c-c662-4c94-a043-19989b29a5c3/edit)
+
+[Tableau vizzez](https://public.tableau.com/app/profile/olha.rukshyna/vizzes)
+
+SQL Labs:
+[Lab - Calculated Columns](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Calculated%20Columns.html)
+[Lab - Ordering and Limiting](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Ordering%20and%20Limiting.html)
+[Lab - Grouping Data](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Grouping%20Data.html)
+[Lab - Joining Tables](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Joining%20Tables.html)
+
+
+#### Screenshots of Visualizations/Results
 Examples of the process or outputs. In analytics, these can be images of visualizations.
 
-# Technologies
-List all of the technologies you used to complete the project, to show your proficiency with these tools.
 
-# Setup
-Instructions on how to set up or install the environment and any dependencies that are required. 
-This section can also include usage instructions for readers who want to duplicate your results.
+#### Technologies
+Python, SQL, ETL, Data Analysis.
 
-# Approach
-For analytics projects, this section describes the process and the types of analysis utilized to obtain the data, prepare and clean it, and to test the outcomes.
 
-# Status
-The current status of the project: in process.
-In most cases, you will be putting information into the repository while you are working on the project, so the status will be “in process” and, later, “complete/released”. 
-If there are multiple versions of your project, you can indicate the version here, as well.
-
-# Credits
-List of individuals or organizations that contributed or provided assistance to you while you created the project. 
-You can also list sites that provided inspiration or feedback.
+#### Credits
+List of organizations that contributed or provided assistance/inspiration while creating the project: 
+[Datacamp](https://www.datacamp.com/)
+[Cisco Networking Academy](https://www.netacad.com/courses/data-analytics-essentials)
+[IBM Cognitive Class](https://cognitiveclass.ai/courses/data-analysis-python)
