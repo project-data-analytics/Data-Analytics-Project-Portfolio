@@ -13,10 +13,10 @@ Demo project for demostration core skills in Data Engineering and Analysis.
 [Tableau vizzez](https://public.tableau.com/app/profile/olha.rukshyna/vizzes)
 
 SQL Labs:
-[Lab - Calculated Columns](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Calculated%20Columns.html)
-[Lab - Ordering and Limiting](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Ordering%20and%20Limiting.html)
-[Lab - Grouping Data](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Grouping%20Data.html)
-[Lab - Joining Tables](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Joining%20Tables.html)
+[Lab - Calculated Columns](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Calculated%20Columns.html) | 
+[Lab - Ordering and Limiting](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Ordering%20and%20Limiting.html) | 
+[Lab - Grouping Data](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Grouping%20Data.html) | 
+[Lab - Joining Tables](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Joining%20Tables.html) |
 
 
 #### Screenshots of Visualizations/Results
