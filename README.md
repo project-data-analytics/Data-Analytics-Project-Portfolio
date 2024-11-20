@@ -29,6 +29,6 @@ Python, SQL, ETL, Data Analysis.
 
 #### Credits
 List of organizations that contributed or provided assistance/inspiration while creating the project: 
-[Datacamp](https://www.datacamp.com/)
-[Cisco Networking Academy](https://www.netacad.com/courses/data-analytics-essentials)
+[Datacamp](https://www.datacamp.com/) | 
+[Cisco Networking Academy](https://www.netacad.com/courses/data-analytics-essentials) | 
 [IBM Cognitive Class](https://cognitiveclass.ai/courses/data-analysis-python)
