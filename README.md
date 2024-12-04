@@ -20,7 +20,7 @@ SQL Labs:
 [Lab - Calculated Columns](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Calculated%20Columns.html) ▪ 
 [Lab - Ordering and Limiting](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Ordering%20and%20Limiting.html) ▪ 
 [Lab - Grouping Data](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Grouping%20Data.html) ▪ 
-[Lab - Joining Tables](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Joining%20Tables.html) ▪ 
+[Lab - Joining Tables](https://html-preview.github.io/?url=https://github.com/project-data-analytics/Data-Analytics-Project-Portfolio/blob/main/Lab%20-%20Joining%20Tables.html)
 
 
 ML Labs:
@@ -29,7 +29,7 @@ ML Labs:
 [Lab - Absense of Data](https://gist.github.com/project-data-analytics/ec33684af32c4c06ba3ed9c7c6e67d8b) ▪ 
 [Lab - Data Normalization](https://gist.github.com/project-data-analytics/3c84e1d945816fd26e85f06f426d7000) ▪ 
 [Lab - Data Sampling](https://gist.github.com/project-data-analytics/f75769b94dc4dc44fde26eae6ceab6ba) ▪ 
-[Lab - ML Model](https://gist.github.com/project-data-analytics/34271a288ff0d4e184d52fec69d20b26) ▪ 
+[Lab - ML Model](https://gist.github.com/project-data-analytics/34271a288ff0d4e184d52fec69d20b26)
 
 
 
